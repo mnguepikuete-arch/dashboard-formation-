@@ -1,0 +1,18 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Editeurs
+.vscode/
+.idea/
+
+# Logs et temporaires
+*.log
+*.tmp
+
+# Configuration locale (ne pas partager les mots de passe)
+config/local.php
+
+# Dossiers temporaires
+temp/
+cache/
